@@ -1,0 +1,18 @@
+MUST READ ALL THE ARRAY FUNCTIONS,
+
+HOWEVER, HIGHLY REQUIRED ONES ARE:
+
+array()
+array_combine()
+array_filter()
+array_flip()
+array_keys()
+array_map()
+array_merge()
+array_push()
+array_pop()
+array_sum()
+asort()
+arsort()
+count()
+suffle()

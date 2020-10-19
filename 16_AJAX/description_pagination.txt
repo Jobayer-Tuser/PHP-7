@@ -1,0 +1,13 @@
+table.php > Table is Calling Paginator
+
+paginator.php > Paginator is sending data to Table, This page is Generating the Table and sending it back to the table.php
+
+pHandler > Name of the Page from where you are calling Data i.e. "paginator.php"
+
+pController > Total Number of Available Data
+
+pPointer > From which point you are showing Data
+
+pInterval > How many Data you are showing / Data Range
+
+pValue1 > Data may be needed to pass from table.php to paginator.php

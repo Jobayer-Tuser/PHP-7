@@ -1,0 +1,18 @@
+table, td, td
+{
+	border: 1px solid gray; /* solid dotted */
+	border-collapse: collapse;
+	text-align: center;
+	font-family: Verdana;
+}
+td
+{
+	background-color: gray;
+	color: white;
+	width: 25%;
+	line-height: 200%;
+}
+table
+{
+	width: 100%;
+}

@@ -1,0 +1,16 @@
+VERY VERY IMPORTANT
+explode()
+str_replace()
+str_cmp()
+strip_tags()
+strpos()
+substr()
+
+IMPORTANT
+adslashes()
+stripslashes()
+str_shuffle()
+strtolower()
+strtoupper()
+
+

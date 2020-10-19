@@ -1,0 +1,19 @@
+BUILTIN VARIABLE TYPES:
+
+$_GET > This variable receives the Data that you are submitting in GET method.
+$_POST > This variable receives the Data that you are submittting in the POST method.
+$_REQUEST > This variable receives the Data that you are submitting in POST or GET Method.
+$_SERVER > This Variable shows the Information of a Server on which you are working.
+$_FILES	> When a Form is Submitted, $_FILES receives all the information of that Submitted File.
+$_SESSION > Creates Session Variable.
+
+@ sign is used before Variable Name to avoid Error Message when a Variable is NULL
+
+===============================================================================
+
+FUNCTIONS:
+
+isset() Function is used to check whether a VARIABLE is SET with DATA or not.
+trim() Function will erase all the unnecessary Spaces from left and right side of a Variable
+die("Get lost") = Terminates the execution of your code, with a message.
+exit = Terminates the execution of your code.
