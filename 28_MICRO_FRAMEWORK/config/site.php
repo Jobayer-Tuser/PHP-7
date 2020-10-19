@@ -1,0 +1,5 @@
+<?php 
+# WEBSITE CONFIGURATIONS
+$GLOBALS['CURRENCY'] = "$" ;
+
+?>
